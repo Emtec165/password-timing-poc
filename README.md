@@ -1,2 +1,1 @@
-Password timing attack PoC - rapid password guessing based on timing attack on the comparator
-
+Password timing attack PoC - rapid password guessing based on timing attack on the comparator. Compile using `make` command. Run using `./poc` command.
